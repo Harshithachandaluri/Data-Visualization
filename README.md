@@ -1,4 +1,6 @@
 # Data-Visualization
+<img width="884" alt="dv" src="https://github.com/Harshithachandaluri/Data-Visualization/assets/85833792/76719c85-8e80-4568-b5d2-1e356c9ff3eb">
+
 
 The primary goal of this project is to leverage Python data visualization libraries such as Matplotlib, Seaborn, and Plotly to recreate and extend Hans Rosling's captivating animated graph from his TED talk, "The best stats you've ever seen." 
 
